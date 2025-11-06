@@ -178,33 +178,6 @@ Pillow==10.0.0
 
 ---
 
-## 🛠️ Technologies Used
-
-### Core Frameworks
-- **TensorFlow 2.x** - Deep learning framework
-- **Keras** - High-level neural networks API
-- **Streamlit** - Web application framework
-
-### Data Science Libraries
-- **NumPy** - Numerical computing
-- **Pandas** - Data manipulation
-- **scikit-learn** - Machine learning utilities
-
-### Visualization
-- **Matplotlib** - Static plots
-- **Seaborn** - Statistical visualizations
-- **Plotly** - Interactive plots
-
-### Image Processing
-- **Pillow (PIL)** - Image handling
-- **OpenCV** - Computer vision operations
-
-### Model Deployment
-- **KaggleHub** - Dataset management
-- **JSON** - Artifact serialization
-
----
-
 ## 📊 Model Performance Visualizations
 
 ### Confusion Matrix
